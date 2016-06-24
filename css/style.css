@@ -50,7 +50,7 @@ nav li{
 
 a {
   color:#276056;
-  font-size: 16px;
+  font-size: 15px;
   text-decoration: none;
 }
 
@@ -96,10 +96,21 @@ a:hover{
   height: 730px;
 }
 
+#extra
+{
+  margin-right: 140px;
+  padding: 30px;
+}
+
+#extra li
+{
+  margin: 20px;
+}
 .footer h3
 {
   float: left;
 }
+
 .footer ul li
 {
   float: right;
