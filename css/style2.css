@@ -1,0 +1,81 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  width: auto;
+  background-image: url('../images/hero1.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+a
+{
+  text-decoration: none;
+  color:#276056;
+}
+
+#grad1 h1
+{
+  color: white;
+}
+
+.menu li
+{
+
+  color:white;
+  font-size: 18px;
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+}
+
+.menu ul {
+  padding-top: 20px;
+}
+
+.sec1
+{
+  width: 960px;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  margin-left: 195px;
+  background-color: black;
+}
+.sec1 a
+{
+  color: white;
+}
+
+h1
+{
+  font-size: 38px;
+}
+
+.wrap
+{
+  background-color: #e3e3e3;
+  opacity: 0.9;
+  margin:auto;
+}
+
+sec2 h2
+{
+  font-size: 24px;
+}
+
+.square
+{
+  width: 300px;
+  height: 300px;
+}
+
+.footer h3
+{
+  float: left;
+}
+
+.footer ul li
+{
+  float: right;
+  display: inline;
+}

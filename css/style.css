@@ -1,0 +1,110 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#grad1 {
+  background: linear-gradient(to right, rgba(211,211,211,0), rgba(211,211,211,1));
+}
+
+#grad1 h1
+{
+  color: white;
+}
+
+.menu li a {
+  color:white;
+  font-size: 18px;
+}
+
+.menu ul
+{
+  padding-top: 20px;
+}
+
+.sec1
+{
+  width: 960px;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  background-color: black;
+  opacity: 0.8;
+}
+
+h1
+{
+  font-size: 38px;
+}
+
+nav li{
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+}
+
+.sec2
+{
+    margin: 10px 10px;
+}
+
+
+a {
+  color:#276056;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:black;
+  /*font-size: 20px;*/
+}
+
+.quote
+{
+  color: whitesmoke;
+  font-size: 35px;
+  text-shadow: none;
+  text-align: center;
+  height: 50%;
+  width: 50%;
+  position: relative;
+  top: 18%;
+  left: 26%;
+  font-weight: 300;
+}
+
+.sec3
+{
+  height: 100%;
+  width: 100%;
+  background-image: url('../images/space.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.sec4 a:first-child
+{
+  font-size: 22px;
+}
+
+.sec4_a
+{
+  margin: auto;
+  color:white;
+  background-image:url('../images/telescope.jpg');
+  width: 480px;
+  height: 730px;
+}
+
+.footer h3
+{
+  float: left;
+}
+.footer ul li
+{
+  float: right;
+  display: inline;
+  margin-left: 0;
+  margin-right: 10px;
+  font-size: 18px;
+}
